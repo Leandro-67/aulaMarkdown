@@ -35,5 +35,6 @@ Exemplos incluem funcionalidades como pesquisa em um sistema de biblioteca, requ
 
 # tabela comparativa
 
-![tabela]("C:\Users\Aluno\Pictures\Screenshots\Captura de tela 2024-03-25 174228.png")
+![Captura de tela 2024-03-25 174228](https://github.com/Leandro-67/aulaMarkdown/assets/164562028/68f8f3af-35f1-42bd-9dcf-80549ca43eaa)
+
 
