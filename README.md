@@ -39,7 +39,10 @@ Exemplos incluem funcionalidades como pesquisa em um sistema de biblioteca, requ
 
 # A seguir alguns links de sites que falam sobre o tema abordado a cima
 
-# Devmedia
+# Devmedia 
 <https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034>
+
+# Quero Bolsa
+<https://querobolsa.com.br/revista/engenharia-de-requisitos>
 
 
