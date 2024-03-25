@@ -29,4 +29,6 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 Exemplos incluem funcionalidades como pesquisa em um sistema de biblioteca, requisitos de desempenho como tempo de resposta em um e-commerce, interfaces como APIs RESTful, necessidades do usuário como visualização de fotos em um sistema de reservas de hotel e requisitos de negócio como relatórios financeiros em um sistema de contabilidade.
 
-![Processo](https://cdn3.slideserve.com/6927584/o-processo-de-engenharia-de-requisitos-n.jpg)
+# Algumas Imagens para Facilitar o Entendimento
+
+![Oque é](https://i.ytimg.com/vi/QK_0GppsvZ4/maxresdefault.jpg) ![Processo](https://cdn3.slideserve.com/6927584/o-processo-de-engenharia-de-requisitos-n.jpg) 
