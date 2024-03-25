@@ -16,3 +16,15 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# Pesquisa Engenharia de Requisitos 
+
+# Requisitos são as necessidades e especificações que um sistema deve atender. Existem cinco tipos principais de requisitos:
+
+1. **Funcionais:** Descrevem as funcionalidades que o sistema deve ter.
+2. **Não Funcionais:** Especificam atributos como desempenho e segurança.
+3. **De Interface:** Definem como o sistema interage com outros elementos.
+4. **De Usuário:** Representam as necessidades dos usuários finais.
+5. **De Negócio:** Derivam dos objetivos e estratégias da organização.
+
+Exemplos incluem funcionalidades como pesquisa em um sistema de biblioteca, requisitos de desempenho como tempo de resposta em um e-commerce, interfaces como APIs RESTful, necessidades do usuário como visualização de fotos em um sistema de reservas de hotel e requisitos de negócio como relatórios financeiros em um sistema de contabilidade.
