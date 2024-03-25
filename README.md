@@ -32,3 +32,16 @@ Exemplos incluem funcionalidades como pesquisa em um sistema de biblioteca, requ
 # Algumas Imagens para Facilitar o Entendimento
 
 ![Oque é](https://i.ytimg.com/vi/QK_0GppsvZ4/maxresdefault.jpg) ![Processo](https://cdn3.slideserve.com/6927584/o-processo-de-engenharia-de-requisitos-n.jpg) 
+
+# tabela comparativa
+
+# 
+Aspecto	Caso de Uso	Engenharia de Requisitos
+Definição	Descreve uma interação entre um ator e o sistema, representando um objetivo tangível do usuário.	Engloba todo o processo de identificação, análise, documentação e validação dos requisitos de um sistema.
+Foco	Centra-se nas ações e interações específicas do usuário com o sistema.	Considera todos os tipos de requisitos (funcionais, não funcionais, de interface, etc.) e suas inter-relações.
+Detalhamento	Detalha passo a passo como o usuário interage com o sistema para alcançar um objetivo específico.	Analisa e documenta requisitos de forma mais ampla, incluindo requisitos de negócio, de usuário, etc.
+Utilidade	Útil para capturar e compreender as necessidades dos usuários e o comportamento do sistema em resposta a essas necessidades.	Fundamental para garantir que o sistema atenda aos objetivos e expectativas do cliente e dos stakeholders.
+Escopo	Limitado a cenários específicos de uso e interações entre atores e o sistema.	Abrange todo o ciclo de vida do projeto, desde a concepção até a entrega e manutenção do sistema.
+Exemplo	"Realizar compra online" ou "Enviar mensagem"	Análise detalhada dos requisitos funcionais, não funcionais, de interface, de usuário e de negócio.
+
+
